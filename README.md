@@ -18,7 +18,10 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
+### <b>For Running JSON-SERVER</b>
 ```
+json-server --watch db.json
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
