@@ -1,0 +1,35 @@
+{
+  "signupDetailsDoctor": [
+    {
+      "name": "selva",
+      "email": "selva@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "password": "123",
+      "designation": "doctor",
+      "id": 2
+    }
+  ],
+  "signupDetailsNurse": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "456",
+      "designation": "Nurse",
+      "id": 1
+    }
+  ],
+  "signupDetailsOther": [
+    {
+      "name": "rocky",
+      "email": "rockybhai@gmail.com",
+      "password": "1234",
+      "designation": "other",
+      "id": 1
+    }
+  ]
+}
