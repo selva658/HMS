@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 
-### <b>For Running JSON-SERVER</b>
+### **For Running JSON-SERVER**
 ```
 json-server --watch db.json
 
